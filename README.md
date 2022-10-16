@@ -15,7 +15,7 @@ ________________________________________________________________________________
 Português: 
 Competências Transferiveis I - Módulo: Gestão de Projectos
 
-  O material disponibilizado foi desenvolvido no decorrer do módulo "Economia I" da unidade curricular "Competências Transferiveis" da Universidade de Aveiro, 2021/22. 
+  O material disponibilizado foi desenvolvido no decorrer do módulo "Project Management" da unidade curricular "Competências Transferiveis" da Universidade de Aveiro, 2021/22. 
   
   ⚠️ ATENÇÃO: O material disponibilizado pode estar sujeito a erros, pelo que é recomendado a utilização do mesmo apenas como referência extra para estudo independente. POr vafor use este material de forma responsável e estude usando o material disponibilizado pelo docente.
 
@@ -23,7 +23,7 @@ ________________________________________________________________________________
 English: 
 Transferable Skills I - Module: Project Management
 
-  The material provided was developed during the "Economy I" module of the "Transferable Competencies" course at the University of Aveiro, 2021/22.
+  The material provided was developed during the "Project Management" module of the "Transferable Competencies" course at the University of Aveiro, 2021/22.
   
   ⚠️ WARNING: The material provided may be subject to errors, so it is recommended to use it only as an extra reference for independent study. Please use this material responsibly and study using the material provided by your teacher.
 
